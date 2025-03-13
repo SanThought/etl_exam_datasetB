@@ -105,7 +105,7 @@ curl -X POST http://localhost:3000/api/load
 
 Captura de pantalla de datos transformados:
 
-    (Inserta aquí tu captura de pantalla 📸)
+    (errores dde healtchcheck demoraron esta parte)
 
 🗃️ Base de datos PostgreSQL
 
@@ -122,7 +122,9 @@ CREATE TABLE etl_data (
 
 Captura de pantalla de PostgreSQL con datos transformados:
 
-    (Inserta aquí tu captura de pantalla 📸)
+    ![a1](https://github.com/user-attachments/assets/aa47a8eb-c43d-4641-bdaa-14a225b22462)
+    ![a2](https://github.com/user-attachments/assets/28059027-4915-4868-8524-5fa70127e548)
+
 
 📤 Exportación a CSV (GET /api/export)
 
@@ -134,7 +136,7 @@ Esto generará el archivo CSV en output/recap.csv.
 
 Captura de pantalla del archivo recap.csv generado:
 
-    (Inserta aquí tu captura de pantalla 📸)
+    (errores de healthcheck i demoraron esta parte)
 
 Ejemplo del CSV generado:
 
