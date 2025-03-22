@@ -1,4 +1,4 @@
-Aquí tienes una versión revisada del **README.md**, más breve y centrada en documentación clara, con una sección al final explicando por qué la versión inicial no funcionaba (**Fé de erratas**):
+*(versión del **README.md** actualizado con **Fé de erratas** al final)*
 
 ---
 
